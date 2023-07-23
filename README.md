@@ -1,5 +1,5 @@
 # 💫 About Me:
-Learning Cyber Security <br>Doing internshp with Bytewise Ltd, Pakistan<br>Did some projects in Laravel 9 and MySQL<br>Major projects are Job Portal,Human Resource Management System.<br><br>
+MERN Stack<br>Did some projects in Laravel 9 and MySQL<br>Major projects are Job Portal,Human Resource Management System.<br><br>
 
 
 ## 🌐 Socials:
