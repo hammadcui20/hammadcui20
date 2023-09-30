@@ -14,7 +14,6 @@ MERN Stack<br>Did some projects in Laravel 9 and MySQL<br>Major projects are Job
 
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=Hammad__H)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-![](https://github-readme-streak-stats.herokuapp.com/?user=hammadcui20&theme=dark&hide_border=false)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
